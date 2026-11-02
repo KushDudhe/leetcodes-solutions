@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0002-add-two-numbers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Two Pointers
 |  |
 | ------- |
