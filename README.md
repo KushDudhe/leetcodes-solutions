@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
