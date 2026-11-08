@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0007-reverse-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2235-add-two-integers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
