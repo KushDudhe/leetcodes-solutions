@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/2235-add-two-integers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -96,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
