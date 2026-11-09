@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/2235-add-two-integers) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
