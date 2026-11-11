@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0326-power-of-three) |
+| [0357-count-numbers-with-unique-digits](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/2235-add-two-integers) |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
