@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
