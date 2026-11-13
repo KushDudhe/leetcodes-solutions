@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0258-add-digits) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0326-power-of-three) |
