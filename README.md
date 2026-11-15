@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2235-add-two-integers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0704-binary-search) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0238-product-of-array-except-self) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
