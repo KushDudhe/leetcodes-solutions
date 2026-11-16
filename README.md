@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0704-binary-search) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
