@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1929-concatenation-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
