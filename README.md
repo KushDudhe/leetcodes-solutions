@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0704-binary-search) |
 ## Floyd's Cycle Finding Algorithm
