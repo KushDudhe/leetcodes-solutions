@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
