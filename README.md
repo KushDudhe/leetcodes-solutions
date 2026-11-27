@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KushDudhe/leetcodes-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/KushDudhe/leetcodes-solutions/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
